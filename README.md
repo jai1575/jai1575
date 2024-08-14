@@ -1,5 +1,4 @@
 ## Hello, I'm Jai.
----
 
 - I'm currently working on command line frame buffering
 - How to reach me: Don't
